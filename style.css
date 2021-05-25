@@ -1,0 +1,153 @@
+body{
+	margin: 0;
+	font-family: 'Century Gothic', Helvetica, Arial, sans-serif;
+}
+h1{
+	margin-right: 11%;
+    text-align: center;
+    padding: 2% 0;
+    font-size: 75px;
+    float: right;
+}
+h3{
+	margin: 0;
+	text-align: center;
+	padding-top: 2%;
+}
+h5{
+	text-align: center;
+}
+h6{
+	text-align: center;
+	font-size: 15px;
+	margin: 2% 0;
+}
+hr{
+	border-bottom-style: none;
+}
+table{
+	margin-left: 9%;
+	width: 80%;
+	font-size: 12px;
+    border: none;
+}
+td {
+	border:none;
+    border-bottom: 1px solid black;
+    padding: 3%;
+    text-align: center;
+}
+
+/*header*/
+.header{
+	width:100%;
+	height:50vh;
+	background-color:black;
+	color:white;
+}
+img.main{
+	width: auto;
+    height: 50vh;
+    float: left;
+}
+.subtitle{
+    font-size: 25px;
+    margin-right: 19%;
+    margin-top: -6%;
+    letter-spacing: 13px;
+    color: white;
+    float: right;
+}
+
+/*details*/
+.detail{
+	width:100%;
+	height:30vh;
+	background-color:lightblue;
+	color:black;
+	font-size:20px;
+}
+.des{
+	padding: 0 3%;
+    text-align: justify;
+}
+/*middle*/
+.middle{
+	display: flex;
+}
+.ach{
+	width:40%;
+	height:140vh;
+	background-color:whitesmoke;
+	color:black;
+	font-size: 30px;
+}
+.mid{
+	font-size: 20px;
+    text-align: center;
+    padding-top: 2%;
+}
+.qul{
+	width:40%;
+	height:140vh;
+	background-color:gainsboro;
+	color:black;
+	font-size:30px; 
+	text-align: center;
+}
+ul, ol{
+	text-align: left;
+    font-size: 16px;
+}
+img.trav{
+	position: relative;
+    top: 44px;
+    width: 100%;
+}
+.contact{
+	width:20%;
+	height:140vh;
+	background-color:lightgrey;
+	color:black;
+	font-size:30px;
+	float:right;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+}
+.facebook{
+	width: 51%;
+	margin: 5% 0;
+	margin-left: 27%;
+	
+}
+.insta{
+	width: 35%;
+	margin: 5% 0;
+	margin-left: 35%;
+	
+}
+.email{
+	width: 70%;
+	margin: 5% 0;
+	margin-left: 19%;
+	
+}
+.tel{
+	width: 46%;
+    margin: 5% 0;
+    margin-left: 15%;
+    
+}
+.footer{
+	width:100%;
+	height:80vh;
+	background-color:wheat;
+	color:black;
+	font-size:20px;
+	text-align: center; 
+}
+img.last{
+	margin-top: 1%
+}
